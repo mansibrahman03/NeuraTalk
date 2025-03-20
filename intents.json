@@ -1,0 +1,14 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": ["Hi", "Hello", "Hey"],
+            "responses": ["Hello!", "Hi there, how can I help?"]
+        },
+        {
+            "tag": "stocks",
+            "patterns": ["Show me my stock portfolio"],
+            "responses": ["Here is your portfolio"]
+        }
+    ]
+}
